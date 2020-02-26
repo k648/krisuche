@@ -86,12 +86,11 @@ request.end();
 app.post("/failure" , function(req, res){
 
 res.redirect("/");
-})
+});
 
 app.listen(3000, function(){
 
     console.log("server is running on port 3000");
 });
 
-//a3cfca881a7ae1da0ce6ad540a35215e-us4
-//2f54b8bd4b
+
