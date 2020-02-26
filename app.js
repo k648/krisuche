@@ -56,7 +56,7 @@ app.post("/",function(req, res){
 
      method: "POST",
     
-      auth: "uche.co:865160db730891c8d15bb4c55b0cd2e0-us4"
+      auth: "uche.co:My API_Key"
 
         }
 
